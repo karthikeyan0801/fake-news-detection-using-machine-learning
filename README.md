@@ -107,8 +107,8 @@ Access the application in your web browser by navigating to `http://localhost:50
 ---
 
 **Author**
-- ABHISHEK P P (https://github.com/karthikeyan0801)
+- karthikeyan S (https://github.com/karthikeyan0801)
 
-- If you have any questions or need further assistance, feel free to contact us at akarthikeyan08012003@gmail.com
+- If you have any questions or need further assistance, feel free to contact us at karthikeyan08012003@gmail.com
 
 ---
